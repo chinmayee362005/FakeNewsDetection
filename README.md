@@ -30,10 +30,18 @@ Model Performance
 💡 Future Improvements  
 - Try advanced models (e.g., BERT or LSTM)  
 - Add headline summarization  
-- Enhance UI/UX with better visuals  
+- Enhance UI/UX with better visuals
 
 👩‍💻 Author  
 ChinmayeeS
 BCA Final Year Student   
 📧 Email: chinmayee362005@gmail.com  
 🌐 GitHub:https://github.com/chinmayee362005
+
+example for true incidents:
+1) FBI Russia probe helped by Australian diplomat tip-off”, WASHINGTON (Reuters) - Trump campaign adviser George Papadopoulos’ comments to an Australian diplomat helped trigger the FBI investigation into Russian election interference.
+2) U.S. military to accept transgender recruits on Monday: Pentagon”, WASHINGTON (Reuters) - Transgender people will be allowed for the first time to enlist in the    U.S. military starting Monday, after the Trump administration decided not to appeal a court ruling blocking its ban.
+
+example for fake incidents:
+1) Donald Trump Sends Out Embarrassing New Year’s Eve Message; This is Disturbing”, “Donald Trump just couldn’t wish all Americans a Happy New Year without controversy, sending out a message that sparked backlash online and in the media”.
+2) “Drunk Bragging Trump Staffer Started Russian Collusion Investigation”, “House Intelligence Committee Chairman Devin Nunes is now looking into the allegation that a Trump staffer’s drunken boasting led to the launch of the Russia probe against the campaign”.
